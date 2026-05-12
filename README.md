@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kotha-diya-bondhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Kotha Diya Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kotha-diya-bondhu/) |
+| **Get License** | [Secure Licensing Rights for Kotha Diya Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kotha-diya-bondhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের আঁধারে তৃষ্ণার্ত বুকে পোড়ে আমার এই ছায়া.. আমার ছায়া..
+> শিহরণ জাগে সারা শরীরে, বাড়ে তোমার এই মায়া
+> চুপিসারে আসো আমারই কাছে, ঢেকে দাও এই আঁধার
+> নেশায় নেশায় জড়িয়েছি আজ, সময় যে হলো পার
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
