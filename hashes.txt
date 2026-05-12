@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kotha Diya Bondhu
+
+This log tracks the cryptographic history and versioning for the song **Kotha Diya Bondhu** (kotha-diya-bondhu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T10:48:59.856926 | `v1` | `6393b1c891713f4bbaf0937c33efb4e7c81ac4de55422a9217e8dd90364baa56` | `301721203e1a112fd5b947fbe9c372cf4675dd9bad798a6900ea641f16ffb502` | `2026-05-12_kotha-diya-bondhu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

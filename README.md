@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kotha-diya-bondhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Kotha Diya Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kotha-diya-bondhu/) |
+| **Get License** | [Get License For Kotha Diya Bondhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kotha-diya-bondhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6393b1c891713f4bbaf0937c33efb4e7c81ac4de55422a9217e8dd90364baa56` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
